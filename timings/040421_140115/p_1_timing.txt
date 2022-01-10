@@ -1,0 +1,1 @@
+Time taken by process 1 on a 100x100 grid with 990 iterations: 9.01529 seconds

@@ -1,0 +1,1 @@
+Time taken by process 21 on a 500x500 grid with 4991 iterations: 29.7882 seconds

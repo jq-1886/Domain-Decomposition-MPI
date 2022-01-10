@@ -1,0 +1,1 @@
+Time taken by process 18 on a 1000x1000 grid with 9991 iterations: 131.501 seconds

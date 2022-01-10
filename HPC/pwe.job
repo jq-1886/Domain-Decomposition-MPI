@@ -1,0 +1,13 @@
+#!/bin/bash
+#rj nodes=4 taskspernode=64 queue=iclmsc priority=100 logdir=logs/mpi_rjs
+set -euo pipefail
+
+echo "Starting MPI PWE job"
+
+binary=./bin/Parallel_Wave_Equation_HPC
+
+echo "Using these nodes:"
+echo ${SLURM_JOB_NODELIST}
+
+mpirun ${binary}
+

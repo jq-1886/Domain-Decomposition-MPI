@@ -1,0 +1,1 @@
+Time taken by process 134 on a 1000x1000 grid with 9991 iterations: 798.749 seconds

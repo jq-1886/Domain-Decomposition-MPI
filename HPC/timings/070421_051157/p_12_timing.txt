@@ -1,0 +1,1 @@
+Time taken by process 12 on a 500x500 grid with 4991 iterations: 29.791 seconds

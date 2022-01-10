@@ -1,0 +1,1 @@
+Time taken by process 8 on a 500x500 grid with 4991 iterations: 28.9393 seconds

@@ -1,0 +1,1 @@
+Time taken by process 3 on a 500x500 grid with 4991 iterations: 99.7144 seconds

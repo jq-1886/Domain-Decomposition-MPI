@@ -1,0 +1,1 @@
+Time taken by process 37 on a 500x500 grid with 4991 iterations: 50.569 seconds
