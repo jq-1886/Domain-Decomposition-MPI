@@ -1,5 +1,4 @@
 <div align="center">
-	<h1>ACSE-6 MPI Coursework</h1>
     	<h1>Parallelisation of the Wave Equation</h1>
 	<h3>This software package demonstrates a parallel implementation of a simulation of the wave equation with horizontal domain decomposition on a global grid</h3>
 </div>
